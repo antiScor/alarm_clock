@@ -34,7 +34,7 @@
         android:layout_height="70dp"
         android:layout_marginHorizontal="26dp"
         android:layout_marginTop="200dp"
-        android:text="Set"
+        android:text="Set Alarm to"
         android:textColor="@color/white"
         android:textSize="26dp" />
 
